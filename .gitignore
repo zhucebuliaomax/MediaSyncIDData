@@ -1,0 +1,6 @@
+*.sqlite3
+*.sqlite3-*
+*.manifest.json
+*.json.bz2
+*.json.gz
+__pycache__/
