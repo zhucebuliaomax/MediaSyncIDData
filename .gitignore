@@ -3,4 +3,5 @@
 *.manifest.json
 *.json.bz2
 *.json.gz
+data/tsv/*.tsv
 __pycache__/
